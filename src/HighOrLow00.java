@@ -21,7 +21,7 @@ public class HighOrLow00 {
 	          System.out.println("下よ");
 	      }
 	      System.out.println("BOUNUS確定"+count+"G");
-	      if(count < 2)
+	      if(count < 3)
 	    	  System.out.println("お前が第69代北斗神拳伝承者か…");
 	      else if(count <50)
 	    	  System.out.println("あれ、間違えたかな？俺の求める北斗神拳伝承者はまだ遠い");
